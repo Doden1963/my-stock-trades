@@ -36,3 +36,7 @@ Enhver, der overvejer en investering, bør foretage sin egen undersøgelse og tr
 Formålet med denne log er også at undgå kun at vise succesfulde handler. Når det er praktisk muligt, registrerer jeg derfor både køb og efterfølgende salg, så resultatet af handlerne kan følges over tid.
 
 GitHubs historik gør det samtidig muligt at se, hvornår oplysningerne er blevet tilføjet eller ændret.
+
+## Handelsoversigt
+
+[Se/download min seneste handelsoversigt](Trades_til_18-08-2026.xlsx)
