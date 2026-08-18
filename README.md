@@ -1,42 +1,42 @@
 # Min aktiehandelslog
 
-Dette repository indeholder en løbende registrering af de aktier, jeg selv køber og sælger.
+Dette repository indeholder en løbende oversigt over de aktier, jeg selv køber og sælger via Saxo Trader.
 
-Formålet er at dokumentere mine egne handler og gøre det muligt at følge mine faktiske investeringer over tid – både de handler, der giver gevinst, og dem der giver tab.
+Formålet er at dokumentere mine faktiske handler over tid – både handler med gevinst og handler med tab.
 
-## Sådan bruger jeg handelsloggen
+## Aktuelle positioner
 
-Jeg offentliggør som udgangspunkt først en handel, efter at den er gennemført.
+Pr. **18. august 2026** ejer jeg aktier i:
 
-For hver handel kan jeg blandt andet oplyse:
+* IAG
+* PMTS
+* ITRG
+* NUTX
 
-* Dato
-* Aktie og ticker
-* Køb eller salg
-* Handelspris
-* Eventuelt antal aktier
-* Eventuelt nogle af de faktuelle oplysninger, jeg selv lagde vægt på
-
-## Vigtig information
-
-Dette repository beskriver mine egne investeringer og mine egne overvejelser.
-
-Det er ikke personlig investeringsrådgivning og tager ikke hensyn til andre personers økonomiske situation, risikovillighed eller investeringshorisont.
-
-Jeg opfordrer ikke andre til at kopiere mine handler.
-
-Aktier kan både stige og falde betydeligt i værdi, og mine vurderinger og handler kan vise sig at være forkerte.
-
-Når en aktie står som en åben position i handelsloggen, ejer jeg selv aktien og har derfor en økonomisk interesse i, at kursen stiger.
-
-Enhver, der overvejer en investering, bør foretage sin egen undersøgelse og træffe sin egen beslutning.
-
-## Åbenhed
-
-Formålet med denne log er også at undgå kun at vise succesfulde handler. Når det er praktisk muligt, registrerer jeg derfor både køb og efterfølgende salg, så resultatet af handlerne kan følges over tid.
-
-GitHubs historik gør det samtidig muligt at se, hvornår oplysningerne er blevet tilføjet eller ændret.
+Den 18. august 2026 købte jeg NUTX.
 
 ## Handelsoversigt
 
-[Se/download min seneste handelsoversigt](TRADES_TIL_OG_MED_18-08-2026.csv)
+[Se min handelsoversigt](TRADES_TIL_OG_MED_18-08-2026.csv)
+
+CSV-filen indeholder mine registrerede køb og salg til og med 18. august 2026.
+
+Jeg offentliggør som udgangspunkt først handler, efter at de er gennemført.
+
+## Vigtig information
+
+Dette repository viser mine egne handler og er ikke en opfordring til, at andre skal købe eller sælge de samme aktier.
+
+Jeg kan fortsat eje nogle af de aktier, der fremgår af handelsoversigten, og har derfor selv en økonomisk interesse i deres kursudvikling.
+
+Dette er ikke personlig investeringsrådgivning og tager ikke hensyn til andre personers økonomiske situation, risikovillighed eller investeringshorisont.
+
+Aktier kan både stige og falde betydeligt i værdi. Mine handler og vurderinger kan vise sig at være forkerte.
+
+Enhver bør derfor selv undersøge en investering og træffe sin egen investeringsbeslutning.
+
+## Åbenhed
+
+Formålet med handelsloggen er at vise de faktiske handler og ikke kun fremhæve de succesfulde. Jeg forsøger derfor at registrere både køb og efterfølgende salg, så udviklingen kan følges over tid.
+
+GitHubs historik gør det samtidig muligt at se, hvornår filer og oplysninger er blevet tilføjet eller ændret.
