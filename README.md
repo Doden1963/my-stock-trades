@@ -39,4 +39,4 @@ GitHubs historik gør det samtidig muligt at se, hvornår oplysningerne er bleve
 
 ## Handelsoversigt
 
-[Se/download min seneste handelsoversigt](Trades_til_18-08-2026.csv)
+[Se/download min seneste handelsoversigt](TRADES_TIL_OG_MED_18-08-2026.csv)
