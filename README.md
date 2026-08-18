@@ -17,7 +17,7 @@ Den 18. august 2026 købte jeg NUTX.
 
 ## Handelsoversigt
 
-[Se min handelsoversigt](TRADES_TIL_OG_MED_18-08-2026.csv)
+[Se min handelsoversigt](TRADES_TIL_OG_MED_18-08-2026_DANSK_TID.csv)
 
 CSV-filen indeholder mine registrerede køb og salg til og med 18. august 2026.
 
